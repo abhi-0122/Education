@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid black;
+    background-color: yellowgreen;
+  }
+  td{
+      font-size: x-large;
+      font-style: italic;
+      background-color: cadetblue;
+      text-align: center;      
+  }
+  .center{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      
+  }
